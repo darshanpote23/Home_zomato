@@ -1,0 +1,232 @@
+#first{
+    height: 500px;
+    width: 100%;
+    background-image: url(image/foodzomato.jpg);
+    background-size: cover;
+  
+}
+body{
+    margin: auto;
+}
+
+
+#subfirst1{
+    margin-top: 10%;
+    margin-left: 39%;
+    font-size: 100px;
+    color: rgb(245, 241, 241);
+    position: absolute;
+    font-family:cursive;
+    font-weight: bolder;
+}
+
+#subfirst2{
+    margin-top: 20%;
+    margin-left: 30%;
+    font-size: 39px;
+    color: white;
+    position: absolute;
+  
+}
+
+#dropdown{
+    margin-top: 25%;
+    margin-left: 25%;
+  
+    position: absolute;
+    width: 55%;
+    height: 50px;
+   
+  
+}
+
+select{
+    height:60px;
+    width:40%;
+    text-align: center;
+    font-size: 25px;
+}
+
+#rest{
+    width:59%;
+}
+
+#mainbox{
+    display: flex;
+  
+   
+}
+
+.box{
+    height:230px;
+    width:30%;
+    border: 1px solid gray;
+    margin-left: 3%;
+    margin-top: 3%;
+    display: flex;
+    
+   
+}
+.box:hover{
+    transform: scale(1.1);
+}
+
+.box1{
+    width:52%
+}
+
+.box1> img{
+    height:100%;
+    width: 100%;
+}
+
+.box2{
+    width:45%;
+    margin-top: 12%;
+    margin-left: 4%;
+}
+
+.box2>h2{
+    font-size: 25px;
+    color:#3c2632;
+    font-weight: bold;
+}
+#third{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#subthird1{
+    font-size: 20px;
+}
+#third1{
+    height:330px;
+    width:23%;
+   
+    margin-left: 3%;
+    margin-top: 3%;
+    display: flex;
+    background-image: url(image/new\ rest.webp);
+    background-size: cover;
+    
+   
+
+
+}
+.imgs{
+    margin-top: 21%;
+    margin-left: 2%;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+     color: white;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#third2{
+    height:330px;
+    width:23%;
+
+    margin-left: 3%;
+    margin-top: 3%;
+    display: flex;
+    background-image: url(image/liveee.jpg);
+    background-size: cover;
+ 
+
+}
+#third3{
+    height:330px;
+    width:23%;
+    
+    margin-left: 3%;
+    margin-top: 3%;
+    display: flex;
+    background-image: url(image/restaarant.jpg);
+    background-size: cover;
+ 
+
+}
+#third4{
+    height:330px;
+    width:23%;
+
+    margin-left: 2%;
+    margin-top: 3%;
+    display: flex;
+    background-image: url(image/jio.jpg);
+    background-size: cover;
+   
+
+
+}
+#main_third{
+    display: flex;
+    
+}
+#third1>img{
+    height: 100%;
+    width: 100%;
+}
+
+#fourth{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.last1{
+    height:100px;
+    width:30%;
+    border: 1px solid black;
+    margin-left: 3%;
+    margin-top: 3%;
+    display: flex;
+}
+
+#lastbox{
+    display: flex;
+    flex-wrap: wrap;
+}
+.text{
+    font-size: 25px;
+    color: black;
+    
+    margin-top: 2%;
+    margin-left: 2%;
+    position: absolute;
+}
+.text1{
+    font-size: 20px;
+    color: black;
+    
+    margin-top: 5%;
+    margin-left: 2%;
+    position: absolute;
+}
+
+#fifth>h2{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.fif{
+    height: 80px;
+    width: 80%;
+    border: 1px solid lightgrey;
+    margin: 2%;
+    margin-left: 5%;
+
+}
+.fifin{
+    font-size: 20px;
+    margin-top: 2%;
+    margin-left: 2%;
+    position: absolute;
+}
+#sixth>h2{
+    margin-top: 5%;
+    margin-left: 5%;
+
+    font-weight: bolder;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#sixth>p{
+    text-align: center;
+}
